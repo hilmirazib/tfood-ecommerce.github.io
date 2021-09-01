@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #ffeedb;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-family: Lora;
+    font-weight: bold;
+    font-family: Lora;
+}
+
+.nav-link {
+    margin: 0 30px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.search {
+    height: 40px;
+    width: 80%;
+    border-radius: 40px;
+    outline: none;
+    border: 2px solid #ff6b6b;
+    margin-right: -50px;
+}
+
+.btn-search {
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background-color: #ff6b6b;
+    color: white;
+    border-radius: 40px;
+    font-weight: 700;
+}
+
+.main {
+    background: url(images/Group1.png) no-repeat;
+    background-size: cover;
+    height: 440px;
+    width: 100%;
+    background-position: 50% 50%;
+}
+
+.main h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+.main .btn1 {
+    width: 35%;
+    height: 45px;
+    border: none;
+    outline: none;
+    background-color: #ff6b6b;
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+}
+
+.new {
+    background-color: #fdf6f0;
+}
